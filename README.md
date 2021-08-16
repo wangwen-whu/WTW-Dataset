@@ -5,6 +5,7 @@ covers 7 challenging cases like: (1)Inclined tables, (2) Curved tables, (3) Occl
 
 ![image](https://github.com/wangwen-whu/WTW-Dataset/blob/main/demo/20210816_210413.gif)
 
+It contains 14581 images with the following ground-truths:
 ```
 - data
  - train
