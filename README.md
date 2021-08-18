@@ -19,10 +19,14 @@ It contains 14581 images with the following ground-truths:
 
 Download link is [here](https://tianchi.aliyun.com/dataset/dataDetail?dataId=108587)
 
+## To be updated
+Our results on WTW-dataset
+Evaluation code
+
 ## Data to other forms:
 If you want to change to other common forms, you can do followings :
-- run the ```xmltococo.py``` to change the xml to json form.
-- run the ```xmltohtml.py``` to change the xml to html form.
+- run the ```xmltococo.py``` to change the xml to json form.(To be updated)
+- run the ```xmltohtml.py``` to change the xml to html form.(To be updated)
 
 ## Citation:
 If you use the dataset, please consider citing our work-
