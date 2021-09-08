@@ -29,6 +29,8 @@ If you want to change to other common forms, you can do followings :
 - run the ```xmltococo.py``` to change the xml to json form.(To be updated)
 - run the ```xmltohtml.py``` to change the xml to html form.(To be updated)
 
+##Model link
+Our model Cycle-Centernet has been used as Alibaba's online model, so we can't open the model code. If you need to test, you can use the following online [test link](https://duguang.aliyun.com/experience?type=universal&subtype=table#intro)
 ## Citation:
 If you use the dataset, please consider citing our work-
 ```
