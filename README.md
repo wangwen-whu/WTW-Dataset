@@ -1,5 +1,7 @@
 # WTW-Dataset
-This is an official implementation for the WTW Dataset in "Parsing Table Structures in the Wild " on ICCV 2021. WTW-Dataset is the first wild table dataset for table detection and table structure recongnition tasks, which is constructed from photoing, scanning and web pages, 
+This is an official implementation for the WTW Dataset in "Parsing Table Structures in the Wild " on ICCV 2021. Here, you can download the [paper](https://arxiv.org/abs/2109.02199), and [Supplementary materials](https://github.com/wangwen-whu/WTW-Dataset/blob/main/Supplementary.pdf)
+
+WTW-Dataset is the first wild table dataset for table detection and table structure recongnition tasks, which is constructed from photoing, scanning and web pages, 
 covers 7 challenging cases like: (1)Inclined tables, (2) Curved tables, (3) Occluded tables or blurredtables (4) Extreme aspect ratio tables
 (5) Overlaid tables, (6) Multi-color tables and (7) Irregular tables in table structure recognition.
 
