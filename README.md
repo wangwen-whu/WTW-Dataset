@@ -21,6 +21,10 @@ It contains 14581 images with the following ground-truths:
 
 Download link is [here](https://tianchi.aliyun.com/dataset/dataDetail?dataId=108587)
 
+## Recent Updates
+- **[Sep, 2021]** Revised the Ground Truth for test set. (test-xml-revise.zip in download link)
+- **[Sep, 2021]** Revised the Cycle-Centernet evaluation results for the WTW testset. (in /demo/newresult.txt)
+
 ## To be updated
 Our results on WTW-dataset
 
