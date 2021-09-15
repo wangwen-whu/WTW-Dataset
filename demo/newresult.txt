@@ -1,0 +1,24 @@
+Original Results on Test Ground Truth(table 3,4 in paper):
+Adjacency Relation        TEDS    (Table3)
+Prec.     Rec.        F1
+93.3      91.5       92.4      83.3
+
+Simple        Inclined       Curved     Occluded and blurred      Extreme aspect ratio       Overlaid        Muticolor and grid    (Table 4)
+F1 TEDS      F1 TEDS      F1 TEDS             F1 TEDS                           F1 TEDS                 F1 TEDS              F1 TEDS
+99.3 94.2     97.7 90.6     76.1 70              77.4 53.3                          91.9 77.4                84.1 51.2             93.7 66.7
+
+
+
+Cycle-Centernet Test Results on WTW Revised test GT:
+Adjacency Relation        TEDS   
+Prec.     Rec.        F1
+96.4     95.0        95.7      90.1
+
+Simple        Inclined       Curved     Occluded and blurred      Extreme aspect ratio       Overlaid        Muticolor and grid    
+F1 TEDS      F1 TEDS      F1 TEDS             F1 TEDS                           F1 TEDS                 F1 TEDS              F1 TEDS
+99.9 97.2     99.3 90.6     81.1 73.6            88.4 66.7                          97.0 87.4                91.4 64.9             94.4 67.1
+
+
+Note:
+Adjacency Relation: We use the evaluation of icdar2013 and add the test of empty cells.
+TEDS: We use the TEDS (https://github.com/ibm-aur-nlp/PubTabNet/tree/master/src) add the test for image with multiple tables.
