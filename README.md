@@ -19,7 +19,7 @@ It contains 14581 images with the following ground-truths:
   - class (7 .txt files include image names for 7 different challenging cases)
 ```
 
-Download link is [here](https://tianchi.aliyun.com/dataset/dataDetail?dataId=108587).
+Download link is [here](https://tianchi.aliyun.com/dataset/dataDetail?dataId=108587) 
 (we revised the Ground Truth for testset, you can download the test-xml-revise.zip).
 
 ## Recent Updates
